@@ -19,7 +19,7 @@ A feature-rich, dark-themed, responsive Python desktop GUI application for manag
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/DPMMV_Bells_System.git
+git clone https://github.com/dinethnethsara/DPMMV_Bells_System.git
 cd DPMMV_Bells_System
 ```
 
