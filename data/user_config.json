@@ -1,0 +1,11 @@
+{
+    "theme": "dark",
+    "autostart": true,
+    "minimize_to_tray": true,
+    "show_notifications": true,
+    "missed_bell_recovery": true,
+    "global_volume": 100,
+    "pre_ring_notification_time": 5,
+    "storage_type": "json",
+    "backup_frequency": "daily"
+}
